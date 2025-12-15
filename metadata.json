@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Xiangqi Master",
+  "description": "A modern, elegant Chinese Chess (Xiangqi) game featuring an intelligent AI opponent powered by Google's Gemini 2.5 Flash API.",
+  "requestFramePermissions": []
+}
